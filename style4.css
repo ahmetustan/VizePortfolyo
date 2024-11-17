@@ -1,0 +1,15 @@
+body{
+    width: 80%;
+    background-size: 2400px 1100px;
+}
+.footer{
+    text-align: center;
+    margin-top: 0cm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+}
+.sidebar{
+    text-align: start;
+    margin-top: 0cm;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
